@@ -16,3 +16,5 @@ North South University
 
 _Testing Italic Font Style_
 
+__Testing Bold Font Style__
+
