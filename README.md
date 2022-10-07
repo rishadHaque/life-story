@@ -18,3 +18,5 @@ _Testing Italic Font Style_
 
 __Testing Bold Font Style__
 
+
+~~Testing Strikethrough Text~~
