@@ -20,3 +20,5 @@ __Testing Bold Font Style__
 
 
 ~~Testing Strikethrough Text~~
+
+`yum install bootstrap`
